@@ -31,23 +31,23 @@
     </tema>
     <tema>
         <title>Descriptiva</title>
-	<link-pdf>./pdf/Descriptiva.pdf</link-pdf>
+        <link-pdf>Descriptiva.pdf</link-pdf>
         <subtema>
             <title>Una variable cualitativa</title>
             <section>
                 <title>Frecuencias</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Diciembre/frecuencias.wmv</link-wmv>
-		<link-3gp>./3gp/frecuencias.3gp</link-3gp>
-		<link-ipod>./mpeg4/frecuencias.mp4</link-ipod>
+                <link-wmv>frecuencias.wmv</link-wmv>
+                <link-3gp>frecuencias.3gp</link-3gp>
+                <link-ipod>frecuencias.mp4</link-ipod>
             </section>
             <section>
                 <title>Moda</title>
             </section>
             <section>
                 <title>Gráfico de barras</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Diciembre/Grafico_de_barras.wmv</link-wmv>
-		<link-3gp>./3gp/Grafico_de_barras.3gp</link-3gp>
-		<link-ipod>./mpeg4/Grafico_de_barras.mp4</link-ipod>
+                <link-wmv>Grafico_de_barras.wmv</link-wmv>
+                <link-3gp>Grafico_de_barras.3gp</link-3gp>
+                <link-ipod>Grafico_de_barras.mp4</link-ipod>
             </section>
             <section>
                 <title>Gráfico de tartas</title>
@@ -57,100 +57,100 @@
             <title>Una variable cuantitativa</title>
             <section>
                 <title>Media</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Diciembre/Media.wmv</link-wmv>
-		<link-3gp>./3gp/Media.3gp</link-3gp>
-		<link-ipod>./mpeg4/Media.mp4</link-ipod>
+                <link-wmv>Media.wmv</link-wmv>
+                <link-3gp>Media.3gp</link-3gp>
+                <link-ipod>Media.mp4</link-ipod>
             </section>
             <section>
                 <title>Mediana</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Diciembre/Mediana.wmv</link-wmv>
-		<link-3gp>./3gp/Mediana.3gp</link-3gp>
-		<link-ipod>./mpeg4/Mediana.mp4</link-ipod>
+                <link-wmv>Mediana.wmv</link-wmv>
+                <link-3gp>Mediana.3gp</link-3gp>
+                <link-ipod>Mediana.mp4</link-ipod>
             </section>
             <section>
                 <title>Mínimo, máximo y amplitud</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Diciembre/Min_max_amplitud.wmv</link-wmv>
-		<link-3gp>./3gp/Min_max_amplitud.3gp</link-3gp>
-		<link-ipod>./mpeg4/Min_max_amplitud.mp4</link-ipod>
+                <link-wmv>Min_max_amplitud.wmv</link-wmv>
+                <link-3gp>Min_max_amplitud.3gp</link-3gp>
+                <link-ipod>Min_max_amplitud.mp4</link-ipod>
             </section>
             <section>
                 <title>Varianza</title>
                 <hora>9:00-11:00</hora>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Diciembre/Varianza.wmv</link-wmv>
-		<link-3gp>./3gp/Varianza.3gp</link-3gp>
-		<link-ipod>./mpeg4/Varianza.mp4</link-ipod>
+                <link-wmv>Varianza.wmv</link-wmv>
+                <link-3gp>Varianza.3gp</link-3gp>
+                <link-ipod>Varianza.mp4</link-ipod>
             </section>
             <section>
                 <title>Desviación típica</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Diciembre/desviacion_tipica.wmv</link-wmv>
-		<link-3gp>./3gp/desviacion_tipica.3gp</link-3gp>
-		<link-ipod>./mpeg4/desviacion_tipica.mp4</link-ipod>
+                <link-wmv>desviacion_tipica.wmv</link-wmv>
+                <link-3gp>desviacion_tipica.3gp</link-3gp>
+                <link-ipod>desviacion_tipica.mp4</link-ipod>
                 <subsection>
-                <title>Desigualdad de Chebyshev</title>
-	        <link-wmv>http://homer.uc3m.Es/audiovisuales/0809/Diciembre/Desigualdad_de_Chebyshev.wmv</link-wmv>
-		<link-3gp>./3gp/Desigualdad_de_Chebyshev.3gp</link-3gp>
-		<link-ipod>./mpeg4/Desigualdad_de_Chebyshev.mp4</link-ipod>
+                    <title>Desigualdad de Chebyshev</title>
+                    <link-wmv>Desigualdad_de_Chebyshev.wmv</link-wmv>
+                    <link-3gp>Desigualdad_de_Chebyshev.3gp</link-3gp>
+                    <link-ipod>Desigualdad_de_Chebyshev.mp4</link-ipod>
                 </subsection>
             </section>
             <section>
                 <title>Cuartiles</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Diciembre/Cuartiles.wmv</link-wmv>
-		<link-3gp>./3gp/Cuartiles.3gp</link-3gp>
-		<link-ipod>./mpeg4/Cuartiles.mp4</link-ipod>
+                <link-wmv>Cuartiles.wmv</link-wmv>
+                <link-3gp>Cuartiles.3gp</link-3gp>
+                <link-ipod>Cuartiles.mp4</link-ipod>
             </section>
             <section>
                 <title>Rango intercuartílico</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Diciembre/Rango_Intercuartilico.wmv</link-wmv>
-		<link-3gp>./3gp/Rango_Intercuartilico.3gp</link-3gp>
-		<link-ipod>./mpeg4/Rango_Intercuartilico.mp4</link-ipod>
+                <link-wmv>Rango_Intercuartilico.wmv</link-wmv>
+                <link-3gp>Rango_Intercuartilico.3gp</link-3gp>
+                <link-ipod>Rango_Intercuartilico.mp4</link-ipod>
             </section>
             <section>
                 <title>Deciles y percentiles</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Enero/Decilespercentiles.wmv</link-wmv>
-		<link-3gp>./3gp/Decilespercentiles.3gp</link-3gp>
-		<link-ipod>./mpeg4/Decilespercentiles.mp4</link-ipod>
+                <link-wmv>Decilespercentiles.wmv</link-wmv>
+                <link-3gp>Decilespercentiles.3gp</link-3gp>
+                <link-ipod>Decilespercentiles.mp4</link-ipod>
             </section>
             <section>
                 <title>Coeficiente de asimetría</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Enero/asimetria.wmv</link-wmv>
-		<link-3gp>./3gp/asimetria.3gp</link-3gp>
-		<link-ipod>./mpeg4/asimetria.mp4</link-ipod>
+                <link-wmv>asimetria.wmv</link-wmv>
+                <link-3gp>asimetria.3gp</link-3gp>
+                <link-ipod>asimetria.mp4</link-ipod>
                 <subsection>
                     <title>Des. Cheb. (sim. y unimodal)</title>
                 </subsection>
             </section>
             <section>
                 <title>Coeficiente de apuntamiento</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Enero/apuntamiento.wmv</link-wmv>
-		<link-3gp>./3gp/apuntamiento.3gp</link-3gp>
-		<link-ipod>./mpeg4/apuntamiento.mp4</link-ipod>
+                <link-wmv>apuntamiento.wmv</link-wmv>
+                <link-3gp>apuntamiento.3gp</link-3gp>
+                <link-ipod>apuntamiento.mp4</link-ipod>
             </section>
             <section>
                 <title>Otros estadísticos</title>
             </section>
             <section>
                 <title>Histograma</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Enero/Histogramas.wmv</link-wmv>
-		<link-3gp>./3gp/Histogramas.3gp</link-3gp>
-		<link-ipod>./mpeg4/Histogramas.mp4</link-ipod>
+                <link-wmv>Histogramas.wmv</link-wmv>
+                <link-3gp>Histogramas.3gp</link-3gp>
+                <link-ipod>Histogramas.mp4</link-ipod>
             </section>
             <section>
                 <title>Polígono de frecuencias</title>
             </section>
             <section>
                 <title>Box-Plot</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Enero/BoxPlot.wmv</link-wmv>
-		<link-3gp>./3gp/BoxPlot.3gp</link-3gp>
-		<link-ipod>./mpeg4/BoxPlot.mp4</link-ipod>
+                <link-wmv>BoxPlot.wmv</link-wmv>
+                <link-3gp>BoxPlot.3gp</link-3gp>
+                <link-ipod>BoxPlot.mp4</link-ipod>
             </section>
         </subtema>
         <subtema>
             <title>Dos variables cualitativas</title>
             <section>
                 <title>Tabla de contingencia</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Enero/contingencia.wmv</link-wmv>
-		<link-3gp>./3gp/contingencia.3gp</link-3gp>
-		<link-ipod>./mpeg4/contingencia.mp4</link-ipod>
+                <link-wmv>contingencia.wmv</link-wmv>
+                <link-3gp>contingencia.3gp</link-3gp>
+                <link-ipod>contingencia.mp4</link-ipod>
             </section>
             <section>
                 <title>Gráfico de bloques</title>
@@ -169,21 +169,21 @@
             <title>Dos variables cuantitativas</title>
             <section>
                 <title>Covarianza</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Enero/Covarianza.wmv</link-wmv>
-		<link-3gp>./3gp/Covarianza.3gp</link-3gp>
-		<link-ipod>./mpeg4/Covarianza.mp4</link-ipod>
+                <link-wmv>Covarianza.wmv</link-wmv>
+                <link-3gp>Covarianza.3gp</link-3gp>
+                <link-ipod>Covarianza.mp4</link-ipod>
             </section>
             <section>
                 <title>Correlación</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Enero/Correlacion.wmv</link-wmv>
-		<link-3gp>./3gp/Correlacion.3gp</link-3gp>
-		<link-ipod>./mpeg4/Correlacion.mp4</link-ipod>
+                <link-wmv>Correlacion.wmv</link-wmv>
+                <link-3gp>Correlacion.3gp</link-3gp>
+                <link-ipod>Correlacion.mp4</link-ipod>
             </section>
             <section>
                 <title>Gráfico de dispersión</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Enero/dispersion.wmv</link-wmv>
-		<link-3gp>./3gp/dispersion.3gp</link-3gp>
-		<link-ipod>./mpeg4/dispersion.mp4</link-ipod>
+                <link-wmv>dispersion.wmv</link-wmv>
+                <link-3gp>dispersion.3gp</link-3gp>
+                <link-ipod>dispersion.mp4</link-ipod>
                 <subsection>
                     <title>Causalidad</title>
                 </subsection>
@@ -192,72 +192,72 @@
     </tema>
     <tema>
         <title>Probabilidad</title>
-	<link-pdf>./pdf/Probabilidad.pdf</link-pdf>
+        <link-pdf>Probabilidad.pdf</link-pdf>
         <subtema>
             <title>Conceptos básicos de probabilidad</title>
             <section>
                 <title>Experimento y espacio muestral</title>
                 <fecha>16-9-2008</fecha>
                 <hora>9:00-11:00</hora>
-		<link-wmv>mms://homer.uc3m.es/audiovisuales/Cursos/Estadistica0809/Experimento y espacio muestral.wmv</link-wmv>
-		<link-3gp>./3gp/Experimento_y_espacio_muestral.3gp</link-3gp>
-		<link-ipod>./mpeg4/Experimento_y_espacio_muestral.mp4</link-ipod>
+                <link-wmv>Experimento_y_espacio_muestral.wmv</link-wmv>
+                <link-3gp>Experimento_y_espacio_muestral.3gp</link-3gp>
+                <link-ipod>Experimento_y_espacio_muestral.mp4</link-ipod>
             </section>
             <section>
                 <title>Sucesos</title>
                 <fecha>16-9-2008</fecha>
                 <hora>9:00-11:00</hora>
-		<link-wmv>mms://homer.uc3m.es/audiovisuales/Cursos/Estadistica0809/Sucesos.wmv</link-wmv>
-		<link-3gp>./3gp/Sucesos.3gp</link-3gp>
-		<link-ipod>./mpeg4/Sucesos.mp4</link-ipod>
+                <link-wmv>Sucesos.wmv</link-wmv>
+                <link-3gp>Sucesos.3gp</link-3gp>
+                <link-ipod>Sucesos.mp4</link-ipod>
                 <subsection>
                     <title>Operaciones de sucesos</title>
                     <fecha>16-9-2008</fecha>
                     <hora>9:00-11:00</hora>
-		    <link-wmv>mms://homer.uc3m.es/audiovisuales/Cursos/Estadistica0809/Operaciones de sucesos.wmv</link-wmv>
-		    <link-3gp>./3gp/Operaciones_de_sucesos.3gp</link-3gp>
-		    <link-ipod>./mpeg4/Operaciones_de_sucesos.mp4</link-ipod>
+                    <link-wmv>Operaciones_de_sucesos.wmv</link-wmv>
+                    <link-3gp>Operaciones_de_sucesos.3gp</link-3gp>
+                    <link-ipod>Operaciones_de_sucesos.mp4</link-ipod>
                 </subsection>
                 <subsection>
                     <title>Propiedades operaciones de sucesos</title>
                     <fecha>16-9-2008</fecha>
                     <hora>9:00-11:00</hora>
-		    <link-wmv>mms://homer.uc3m.es/audiovisuales/Cursos/Estadistica0809/Prop.ope.de sucesos.wmv</link-wmv>		
-		    <link-3gp>./3gp/Prop.ope.de_sucesos.3gp</link-3gp>
-		    <link-ipod>./mpeg4/Prop.ope.de_sucesos.mp4</link-ipod>
+                    <link-wmv>Prop.ope.de_sucesos.wmv</link-wmv>
+                    <link-3gp>Prop.ope.de_sucesos.3gp</link-3gp>
+                    <link-ipod>Prop.ope.de_sucesos.mp4</link-ipod>
                 </subsection>
             </section>
             <section>
                 <title>Probabilidad de un suceso</title>
                 <fecha>16-9-2008</fecha>
                 <hora>9:00-11:00</hora>
-		<link-wmv>mms://homer.uc3m.es/audiovisuales/Cursos/Estadistica0809/Probabilidad de un suceso.wmv</link-wmv>
-		<link-3gp>./3gp/Probabilidad_de_un_suceso.3gp</link-3gp>
-		<link-ipod>./mpeg4/Probabilidad_de_un_suceso.mp4</link-ipod>
+                <link-wmv>Probabilidad_de_un_suceso.wmv</link-wmv>
+                <link-3gp>Probabilidad_de_un_suceso.3gp</link-3gp>
+                <link-ipod>Probabilidad_de_un_suceso.mp4</link-ipod>
                 <subsection>
                     <title>Propiedades probabilidad</title>
                     <fecha>16-9-2008</fecha>
                     <hora>9:00-11:00</hora>
-		    <link-wmv>mms://homer.uc3m.es/audiovisuales/Cursos/Estadistica0809/Prop. Probabilidad.wmv</link-wmv>
-	            <link-3gp>./3gp/Prop._Probabilidad.3gp</link-3gp>
-		    <link-ipod>./mpeg4/Prop._Probabilidad.mp4</link-ipod>
-		</subsection>
+                    <link-wmv>Prop._Probabilidad.wmv</link-wmv>
+                    <link-3gp>Prop._Probabilidad.3gp</link-3gp>
+                    <link-ipod>Prop._Probabilidad.mp4</link-ipod>
+                </subsection>
                 <subsection>
                     <title>Combinatoria</title>
                     <fecha>24-9-2008</fecha>
                     <hora>9:00-11:00</hora>
-	    	    <link-wmv>mms://homer.uc3m.es/audiovisuales/Cursos/Estadistica0809/Combinatoria.wmv</link-wmv>
-		    <link-3gp>./3gp/Combinatoria.3gp</link-3gp>
-		    <link-ipod>./mpeg4/Combinatoria.mp4</link-ipod>
+                    <link-wmv>Combinatoria.wmv</link-wmv>
+                    <link-3gp>Combinatoria.3gp</link-3gp>
+                    <link-ipod>Combinatoria.mp4</link-ipod>
                 </subsection>
                 <subsection>
                     <title>Binomio de Newton</title>
                     <fecha>24-9-2008</fecha>
                     <hora>9:00-11:00</hora>
-		    <link-wmv>mms://homer.uc3m.es/audiovisuales/Cursos/Estadistica0809/Binomio de Newton.wmv</link-wmv>
-		    <link-3gp>./3gp/Binomio_de_Newton.3gp</link-3gp>
-		    <link-ipod>./mpeg4/Binomio_de_Newton.mp4</link-ipod>
-		</subsection>
+                    <link-wmv>Binomio_de_Newton.wmv</link-wmv>
+                    <link-3gp>Binomio_de_Newton.3gp</link-3gp>
+                    <link-ipod>Binomio_de_Newton.mp4</link-ipod>
+                </subsection>
             </section>
         </subtema>
         <subtema>
@@ -266,77 +266,77 @@
                 <title>Independencia</title>
                 <fecha>24-9-2008</fecha>
                 <hora>9:00-11:00</hora>
-		<link-wmv>mms://homer.uc3m.es/audiovisuales/Cursos/Estadistica0809/Independencia.wmv</link-wmv>
-		<link-3gp>./3gp/Independencia.3gp</link-3gp>
-                <link-ipod>./mpeg4/Independencia.mp4</link-ipod>
+                <link-wmv>Independencia.wmv</link-wmv>
+                <link-3gp>Independencia.3gp</link-3gp>
+                <link-ipod>Independencia.mp4</link-ipod>
             </section>
             <section>
                 <title>Teorema de la probabilidad total</title>
                 <fecha>24-9-2008</fecha>
                 <hora>9:00-11:00</hora>
-		<link-wmv>mms://homer.uc3m.es/audiovisuales/Cursos/Estadistica0809/Teorema_de_la_probabilidad_total.wmv</link-wmv>
-		<link-3gp>./3gp/Teorema_de_la_probabilidad_total.3gp</link-3gp>
-                <link-ipod>./mpeg4/Teorema_de_la_probabilidad_total.mp4</link-ipod>
+                <link-wmv>Teorema_de_la_probabilidad_total.wmv</link-wmv>
+                <link-3gp>Teorema_de_la_probabilidad_total.3gp</link-3gp>
+                <link-ipod>Teorema_de_la_probabilidad_total.mp4</link-ipod>
             </section>
             <section>
                 <title>Teorema de Bayes</title>
                 <fecha>24-9-2008</fecha>
                 <hora>9:00-11:00</hora>
-		<link-wmv>mms://homer.uc3m.es/audiovisuales/Cursos/Estadistica0809/Teorema de Bayes.wmv</link-wmv>
-		<link-3gp>./3gp/Teorema_de_Bayes.3gp</link-3gp>
-                <link-ipod>./mpeg4/Teorema_de_Bayes.mp4</link-ipod>
+                <link-wmv>Teorema_de_Bayes.wmv</link-wmv>
+                <link-3gp>Teorema_de_Bayes.3gp</link-3gp>
+                <link-ipod>Teorema_de_Bayes.mp4</link-ipod>
             </section>
         </subtema>
     </tema>
     <tema>
         <title>Variables aleatorias</title>
-	<link-pdf>./pdf/Variables_aleatorias.pdf</link-pdf>
+        <link-pdf>Variables_aleatorias.pdf</link-pdf>
         <subtema>
             <title>Conceptos básicos de v.a.</title>
             <section>
                 <title>Definición de variables aleatorias</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Octubre/Definicion_de_va.wmv</link-wmv>
-		<link-3gp>./3gp/Definicion_de_va.3gp</link-3gp>
-                <link-ipod>./mpeg4/Definicion_de_va.mp4</link-ipod>
+                <link-wmv>Definicion_de_va.wmv</link-wmv>
+                <link-3gp>Definicion_de_va.3gp</link-3gp>
+                <link-ipod>Definicion_de_va.mp4</link-ipod>
             </section>
             <section>
                 <title>Soporte y tipos</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Octubre/Soporte_y_tipos.wmv</link-wmv>
-		<link-3gp>./3gp/Soporte_y_tipos.3gp</link-3gp>
-                <link-ipod>./mpeg4/Soporte_y_tipos.mp4</link-ipod>
+                <link-wmv>Soporte_y_tipos.wmv</link-wmv>
+                <link-3gp>Soporte_y_tipos.3gp</link-3gp>
+                <link-ipod>Soporte_y_tipos.mp4</link-ipod>
             </section>
         </subtema>
         <subtema>
             <title>Variables aleatorias discretas</title>
             <section>
                 <title>Función de probabilidad</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Octubre/Funcion_de_probabilidad.wmv</link-wmv>
-		<link-3gp>./3gp/Funcion_de_probabilidad.3gp</link-3gp>
-                <link-ipod>./mpeg4/Funcion_de_probabilidad.mp4</link-ipod>
+                <link-wmv>Funcion_de_probabilidad.wmv</link-wmv>
+                <link-3gp>Funcion_de_probabilidad.3gp</link-3gp>
+                <link-ipod>Funcion_de_probabilidad.mp4</link-ipod>
 
             </section>
             <section>
                 <title>Función de distribución</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Octubre/Funcion_de_distribucion.wmv</link-wmv>
-		<link-3gp>./3gp/Funcion_de_distribucion.3gp</link-3gp>
-                <link-ipod>./mpeg4/Funcion_de_distribucion.mp4</link-ipod>
+                <link-wmv>Funcion_de_distribucion.wmv</link-wmv>
+                <link-3gp>Funcion_de_distribucion.3gp</link-3gp>
+                <link-ipod>Funcion_de_distribucion.mp4</link-ipod>
                 <subsection>
-                 <title>Ejemplo 1</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Octubre/Ej_1_vad.wmv</link-wmv>
-		<link-3gp>./3gp/Ej_1_vad.3gp</link-3gp>
-                <link-ipod>./mpeg4/Ej_1_vad.mp4</link-ipod>
+                    <title>Ejemplo 1</title>
+                    <link-wmv>Ej_1_vad.wmv</link-wmv>
+                    <link-3gp>Ej_1_vad.3gp</link-3gp>
+                    <link-ipod>Ej_1_vad.mp4</link-ipod>
                 </subsection>
                 <subsection>
                     <title>Ejemplo 2</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Octubre/Ej2_vad.wmv</link-wmv>
-		<link-3gp>./3gp/Ej2_vad.3gp</link-3gp>
-                <link-ipod>./mpeg4/Ej2_vad.mp4</link-ipod>
+                    <link-wmv>Ej2_vad.wmv</link-wmv>
+                    <link-3gp>Ej2_vad.3gp</link-3gp>
+                    <link-ipod>Ej2_vad.mp4</link-ipod>
                 </subsection>
                 <subsection>
                     <title>Prob. de intervalos en v.a.d.</title>
-		    <link-wmv>http://homer.uc3m.es/audiovisuales/0809/Octubre/Prob_intervalos_vad.wmv</link-wmv>    
-                    <link-3gp>./3gp/Prob_intervalos_vad.3gp</link-3gp>
-                    <link-ipod>./mpeg4/Prob_intervalos_vad.mp4</link-ipod>
+                    <link-wmv>Prob_intervalos_vad.wmv</link-wmv>
+                    <link-3gp>Prob_intervalos_vad.3gp</link-3gp>
+                    <link-ipod>Prob_intervalos_vad.mp4</link-ipod>
                 </subsection>
                 <subsection>
                     <title>Simetría en v.a.d.</title>
@@ -347,44 +347,44 @@
             <title>Variables aleatorias continuas</title>
             <section>
                 <title>Función de densidad</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Octubre/Funcion_de_densidad.wmv</link-wmv>
-		<link-3gp>./3gp/Funcion_de_densidad.3gp</link-3gp>
-                <link-ipod>./mpeg4/Funcion_de_densidad.mp4</link-ipod>
+                <link-wmv>Funcion_de_densidad.wmv</link-wmv>
+                <link-3gp>Funcion_de_densidad.3gp</link-3gp>
+                <link-ipod>Funcion_de_densidad.mp4</link-ipod>
                 <subsection>
                     <title>Integrales impropias</title>
-		    <link-wmv>http://homer.uc3m.es/audiovisuales/0809/Octubre/Integrales_impropias.wmv</link-wmv>
-		    <link-3gp>./3gp/Integrales_impropias.3gp</link-3gp>
-                    <link-ipod>./mpeg4/Integrales_impropias.mp4</link-ipod>
+                    <link-wmv>Integrales_impropias.wmv</link-wmv>
+                    <link-3gp>Integrales_impropias.3gp</link-3gp>
+                    <link-ipod>Integrales_impropias.mp4</link-ipod>
                 </subsection>
                 <subsection>
-                <title>Función gamma</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Octubre/Funcion_gamma.wmv</link-wmv>
-		<link-3gp>./3gp/Funcion_gamma.3gp</link-3gp>                
-                <link-ipod>./mpeg4/Funcion_gamma.mp4</link-ipod>
-		</subsection>
+                    <title>Función gamma</title>
+                    <link-wmv>Funcion_gamma.wmv</link-wmv>
+                    <link-3gp>Funcion_gamma.3gp</link-3gp>
+                    <link-ipod>Funcion_gamma.mp4</link-ipod>
+                </subsection>
                 <subsection>
-                <title>Función beta</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Octubre/Funcion_beta.wmv</link-wmv>
-		<link-3gp>./3gp/Funcion_beta.3gp</link-3gp>
-                <link-ipod>./mpeg4/Funcion_beta.mp4</link-ipod>
+                    <title>Función beta</title>
+                    <link-wmv>Funcion_beta.wmv</link-wmv>
+                    <link-3gp>Funcion_beta.3gp</link-3gp>
+                    <link-ipod>Funcion_beta.mp4</link-ipod>
                 </subsection>
             </section>
             <section>
                 <title>Función de distribución (cont.)</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Noviembre/funcion_distribucion_(cont).wmv</link-wmv>
-<link-3gp>./3gp/funcion_distribucion_(cont).3gp</link-3gp>
-                <link-ipod>./mpeg4/funcion_distribucion_(cont).mp4</link-ipod>
+                <link-wmv>funcion_distribucion_(cont).wmv</link-wmv>
+                <link-3gp>funcion_distribucion_(cont).3gp</link-3gp>
+                <link-ipod>funcion_distribucion_(cont).mp4</link-ipod>
                 <subsection>
-                    <title>Ejemplo </title>
-		    <link-wmv>http://homer.uc3m.es/audiovisuales/0809/Octubre/Ej_1_vac.wmv</link-wmv>
-		    <link-3gp>./3gp/Ej_1_vac.3gp</link-3gp>
-                    <link-ipod>./mpeg4/Ej_1_vac.mp4</link-ipod>
+                    <title>Ejemplo</title>
+                    <link-wmv>Ej_1_vac.wmv</link-wmv>
+                    <link-3gp>Ej_1_vac.3gp</link-3gp>
+                    <link-ipod>Ej_1_vac.mp4</link-ipod>
                 </subsection>
                 <subsection>
                     <title>Prob. de intervalos en v.a.c.</title>
-		    <link-wmv>http://homer.uc3m.es/audiovisuales/0809/Octubre/Problemas_de_intervalos_en_vac.wmv</link-wmv>
-		    <link-3gp>./3gp/Problemas_de_intervalos_en_vac.3gp</link-3gp>
-                    <link-ipod>./mpeg4/Problemas_de_intervalos_en_vac.mp4</link-ipod>
+                    <link-wmv>Problemas_de_intervalos_en_vac.wmv</link-wmv>
+                    <link-3gp>Problemas_de_intervalos_en_vac.3gp</link-3gp>
+                    <link-ipod>Problemas_de_intervalos_en_vac.mp4</link-ipod>
 
                 </subsection>
                 <subsection>
@@ -396,47 +396,47 @@
             <title>Medidas características</title>
             <section>
                 <title>Media poblacional</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Octubre/Media_Poblacional.wmv</link-wmv>
-		<link-3gp>./3gp/Media_Poblacional.3gp</link-3gp>
-                <link-ipod>./mpeg4/Media_Poblacional.mp4</link-ipod>
+                <link-wmv>Media_Poblacional.wmv</link-wmv>
+                <link-3gp>Media_Poblacional.3gp</link-3gp>
+                <link-ipod>Media_Poblacional.mp4</link-ipod>
 
             </section>
             <section>
                 <title>Varianza poblacional</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Octubre/varianza_poblacional.wmv</link-wmv>
-		<link-3gp>./3gp/varianza_poblacional.3gp</link-3gp>
-	                <link-ipod>./mpeg4/varianza_poblacional.mp4</link-ipod>
-		<subsection>
-			<title>Ej. 1 varianza</title>
-			<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Octubre/Ej_1_var.wmv</link-wmv>
-			<link-3gp>./3gp/Ej_1_var.3gp</link-3gp>
-	                <link-ipod>./mpeg4/Ej_1_var.mp4</link-ipod>
+                <link-wmv>varianza_poblacional.wmv</link-wmv>
+                <link-3gp>varianza_poblacional.3gp</link-3gp>
+                <link-ipod>varianza_poblacional.mp4</link-ipod>
+                <subsection>
+                    <title>Ej. 1 varianza</title>
+                    <link-wmv>Ej_1_var.wmv</link-wmv>
+                    <link-3gp>Ej_1_var.3gp</link-3gp>
+                    <link-ipod>Ej_1_var.mp4</link-ipod>
                 </subsection>
             </section>
             <section>
                 <title>Desviación típica poblacional</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Octubre/Desviacion_tipica_poblacional.wmv</link-wmv>
-		<link-3gp>./3gp/Desviacion_tipica_poblacional.3gp</link-3gp>
-	        <link-ipod>./mpeg4/Desviacion_tipica_poblacional.mp4</link-ipod>
+                <link-wmv>Desviacion_tipica_poblacional.wmv</link-wmv>
+                <link-3gp>Desviacion_tipica_poblacional.3gp</link-3gp>
+                <link-ipod>Desviacion_tipica_poblacional.mp4</link-ipod>
                 <subsection>
                     <title>Des. Cheb. poblacional</title>
-		    <link-wmv>http://homer.uc3m.es/audiovisuales/0809/Octubre/Des_Cheb_poblacional(2ed).wmv</link-wmv>
-		    <link-3gp>./3gp/Des_Cheb_poblacional(2ed).3gp</link-3gp>
-	            <link-ipod>./mpeg4/Des_Cheb_poblacional(2ed).mp4</link-ipod>
+                    <link-wmv>Des_Cheb_poblacional(2ed).wmv</link-wmv>
+                    <link-3gp>Des_Cheb_poblacional(2ed).3gp</link-3gp>
+                    <link-ipod>Des_Cheb_poblacional(2ed).mp4</link-ipod>
 
                 </subsection>
                 <subsection>
                     <title>Tipificación</title>
-		    <link-wmv>http://homer.uc3m.es/audiovisuales/0809/Octubre/tipificacion.wmv</link-wmv>
-<link-3gp>./3gp/tipificacion.3gp</link-3gp>
-	            <link-ipod>./mpeg4/tipificacion.mp4</link-ipod>
+                    <link-wmv>tipificacion.wmv</link-wmv>
+                    <link-3gp>tipificacion.3gp</link-3gp>
+                    <link-ipod>tipificacion.mp4</link-ipod>
                 </subsection>
             </section>
             <section>
                 <title>Mediana poblacional</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Octubre/Mediana_poblacional.wmv</link-wmv>
-<link-3gp>./3gp/Mediana_poblacional.3gp</link-3gp>
-<link-ipod>./mpeg4/Mediana_poblacional.mp4</link-ipod>
+                <link-wmv>Mediana_poblacional.wmv</link-wmv>
+                <link-3gp>Mediana_poblacional.3gp</link-3gp>
+                <link-ipod>Mediana_poblacional.mp4</link-ipod>
 
             </section>
             <section>
@@ -462,33 +462,33 @@
             <title>Transformaciones de v.a.</title>
             <section>
                 <title>Teorema de la transformación</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Noviembre/teorema_trans.wmv</link-wmv>
-		<link-3gp>./3gp/teorema_trans.3gp</link-3gp>
-		<link-ipod>./mpeg4/teorema_trans.mp4</link-ipod>
+                <link-wmv>teorema_trans.wmv</link-wmv>
+                <link-3gp>teorema_trans.3gp</link-3gp>
+                <link-ipod>teorema_trans.mp4</link-ipod>
                 <subsection>
                     <title>Ej. 1 transf. v.a.</title>
-		    <link-wmv>http://homer.uc3m.es/audiovisuales/0809/Octubre/ej1_transf_va.wmv</link-wmv>
-	            <link-3gp>./3gp/ej1_transf_va.3gp</link-3gp>
-		    <link-ipod>./mpeg4/ej1_transf_va.mp4</link-ipod>
+                    <link-wmv>ej1_transf_va.wmv</link-wmv>
+                    <link-3gp>ej1_transf_va.3gp</link-3gp>
+                    <link-ipod>ej1_transf_va.mp4</link-ipod>
                 </subsection>
                 <subsection>
                     <title>Ej. 2 transf. v.a.</title>
-		    <link-wmv>http://homer.uc3m.es/audiovisuales/0809/Octubre/ej2_transf_va.wmv</link-wmv>
-	            <link-3gp>./3gp/ej2_transf_va.3gp</link-3gp>
-		    <link-ipod>./mpeg4/ej2_transf_va.mp4</link-ipod>
+                    <link-wmv>ej2_transf_va.wmv</link-wmv>
+                    <link-3gp>ej2_transf_va.3gp</link-3gp>
+                    <link-ipod>ej2_transf_va.mp4</link-ipod>
                 </subsection>
                 <subsection>
                     <title>Ej. 3 transf. v.a.</title>
-		    <link-wmv>http://homer.uc3m.es/audiovisuales/0809/Octubre/ej3_transf_va.wmv</link-wmv>
-	            <link-3gp>./3gp/ej3_transf_va.3gp</link-3gp>
-		    <link-ipod>./mpeg4/ej3_transf_va.mp4</link-ipod>
+                    <link-wmv>ej3_transf_va.wmv</link-wmv>
+                    <link-3gp>ej3_transf_va.3gp</link-3gp>
+                    <link-ipod>ej3_transf_va.mp4</link-ipod>
                 </subsection>
             </section>
             <section>
                 <title>Simulación de v.a.</title>
-		<link-wmv>http://homer.uc3m.es/audiovisuales/0809/Octubre/Simulacion_de_va.wmv</link-wmv>
-                <link-3gp>./3gp/Simulacion_de_va.3gp</link-3gp>
-	        <link-ipod>./mpeg4/Simulacion_de_va.mp4</link-ipod>
+                <link-wmv>Simulacion_de_va.wmv</link-wmv>
+                <link-3gp>Simulacion_de_va.3gp</link-3gp>
+                <link-ipod>Simulacion_de_va.mp4</link-ipod>
             </section>
         </subtema>
     </tema>
@@ -496,40 +496,40 @@
         <title>Modelos de probabilidad</title>
         <fecha>23-4-2008</fecha>
         <hora>9:00-11:00</hora>
-        <link-pdf>./pdf/Modelos_de_probabilidad.pdf</link-pdf>
+        <link-pdf>Modelos_de_probabilidad.pdf</link-pdf>
         <subtema>
             <title>Modelos discretos</title>
             <section>
                 <title>Uniforme discreta</title>
                 <fecha>11-4-2008</fecha>
                 <hora>9:00-12:00</hora>
-                <link-wmv>mms://homer.uc3m.es/audiovisuales/Cursos/estadistica08/uniforme.wmv</link-wmv>
-		<link-3gp>./3gp/uniforme.3gp</link-3gp>
-		<link-ipod>./mpeg4/uniforme.mp4</link-ipod>
+                <link-wmv>uniforme.wmv</link-wmv>
+                <link-3gp>uniforme.3gp</link-3gp>
+                <link-ipod>uniforme.mp4</link-ipod>
             </section>
             <section>
                 <title>Bernoulli</title>
                 <fecha>11-4-2008</fecha>
                 <hora>9:00-12:00</hora>
-                <link-wmv>mms://homer.uc3m.es/audiovisuales/Cursos/estadistica08/Bernouilli.wmv</link-wmv>
-		<link-3gp>./3gp/Bernouilli.3gp</link-3gp>
-		<link-ipod>./mpeg4/Bernouilli.mp4</link-ipod>
+                <link-wmv>Bernouilli.wmv</link-wmv>
+                <link-3gp>Bernouilli.3gp</link-3gp>
+                <link-ipod>Bernouilli.mp4</link-ipod>
             </section>
             <section>
                 <title>Binomial</title>
                 <fecha>11-4-2008</fecha>
                 <hora>9:00-12:00</hora>
-                <link-wmv>mms://homer.uc3m.es/audiovisuales/Cursos/estadistica08/binomial.wmv</link-wmv>
-		<link-3gp>./3gp/binomial.3gp</link-3gp>
-		<link-ipod>./mpeg4/binomial.mp4</link-ipod>
+                <link-wmv>binomial.wmv</link-wmv>
+                <link-3gp>binomial.3gp</link-3gp>
+                <link-ipod>binomial.mp4</link-ipod>
             </section>
             <section>
                 <title>Geométrica</title>
                 <fecha>11-4-2008</fecha>
                 <hora>9:00-12:00</hora>
-                <link-wmv>mms://homer.uc3m.es/audiovisuales/Cursos/estadistica08/geometrica.wmv</link-wmv>
-		<link-3gp>./3gp/geometrica.3gp</link-3gp>
-		<link-ipod>./mpeg4/geometrica.mp4</link-ipod>
+                <link-wmv>geometrica.wmv</link-wmv>
+                <link-3gp>geometrica.3gp</link-3gp>
+                <link-ipod>geometrica.mp4</link-ipod>
                 <subsection>
                     <title>Series</title>
                 </subsection>
@@ -538,10 +538,10 @@
                 <title>Poisson</title>
                 <fecha>30-4-2008</fecha>
                 <hora>9:00-11:00</hora>
-                <link-wmv>mms://homer.uc3m.es/audiovisuales/Cursos/estadistica08/Poisson.wmv</link-wmv>
-		<link-3gp>./3gp/Poisson.3gp</link-3gp>
-		<link-ipod>./mpeg4/Poisson.mp4</link-ipod>                
-	    <subsection>
+                <link-wmv>Poisson.wmv</link-wmv>
+                <link-3gp>Poisson.3gp</link-3gp>
+                <link-ipod>Poisson.mp4</link-ipod>
+                <subsection>
                     <title>Reproductibilidad Poisson</title>
                 </subsection>
             </section>
@@ -554,9 +554,9 @@
                 <title>Uniforme continua</title>
                 <fecha>16-4-2008</fecha>
                 <hora>9:00-11:00</hora>
-                <link-wmv>mms://homer.uc3m.es/audiovisuales/Cursos/estadistica08/uniformecont.wmv</link-wmv>
-		<link-3gp>./3gp/uniformecont.3gp</link-3gp>
-		<link-ipod>./mpeg4/uniformecont.mp4</link-ipod>  
+                <link-wmv>uniformecont.wmv</link-wmv>
+                <link-3gp>uniformecont.3gp</link-3gp>
+                <link-ipod>uniformecont.mp4</link-ipod>
             </section>
             <section>
                 <title>Normal</title>
@@ -571,41 +571,41 @@
                     <title>Tabla N(0,1)</title>
                     <fecha>30-4-2008</fecha>
                     <hora>9:00-11:00</hora>
-                    <link-wmv>mms://homer.uc3m.es/audiovisuales/Cursos/estadistica08/tabla_nuevo.wmv</link-wmv>
-		    <link-3gp>./3gp/tabla_nuevo.3gp</link-3gp>
-		    <link-ipod>./mpeg4/tabla_nuevo.mp4</link-ipod>
+                    <link-wmv>tabla_nuevo.wmv</link-wmv>
+                    <link-3gp>tabla_nuevo.3gp</link-3gp>
+                    <link-ipod>tabla_nuevo.mp4</link-ipod>
                 </subsection>
             </section>
             <section>
                 <title>Cauchy</title>
                 <fecha>30-4-2008</fecha>
                 <hora>9:00-11:00</hora>
-                <link-wmv>mms://homer.uc3m.es/audiovisuales/Cursos/estadistica08/cauchy_nuevo.wmv</link-wmv>
-		<link-3gp>./3gp/cauchy_nuevo.3gp</link-3gp>
-                <link-ipod>./mpeg4/cauchy_nuevo.mp4</link-ipod>
+                <link-wmv>cauchy_nuevo.wmv</link-wmv>
+                <link-3gp>cauchy_nuevo.3gp</link-3gp>
+                <link-ipod>cauchy_nuevo.mp4</link-ipod>
             </section>
             <section>
                 <title>Exponencial</title>
                 <fecha>30-4-2008</fecha>
                 <hora>9:00-11:00</hora>
-                <link-wmv>mms://homer.uc3m.es/audiovisuales/Cursos/estadistica08/exponencial_nuevo.wmv</link-wmv>
-		<link-3gp>./3gp/exponencial_nuevo.3gp</link-3gp>
-                <link-ipod>./mpeg4/exponencial_nuevo.mp4</link-ipod>
+                <link-wmv>exponencial_nuevo.wmv</link-wmv>
+                <link-3gp>exponencial_nuevo.3gp</link-3gp>
+                <link-ipod>exponencial_nuevo.mp4</link-ipod>
                 <subsection>
                     <title>Sin memoria</title>
                     <fecha>23-4-2008</fecha>
                     <hora>9:00-11:00</hora>
-                    <link-wmv>mms://homer.uc3m.es/audiovisuales/Cursos/estadistica08/sinmemoria.wmv</link-wmv>
-		    <link-3gp>./3gp/sinmemoria.3gp</link-3gp>
-                    <link-ipod>./mpeg4/sinmemoria.mp4</link-ipod>
+                    <link-wmv>sinmemoria.wmv</link-wmv>
+                    <link-3gp>sinmemoria.3gp</link-3gp>
+                    <link-ipod>sinmemoria.mp4</link-ipod>
                 </subsection>
                 <subsection>
                     <title>Fiabilidad</title>
                     <fecha>23-4-2008</fecha>
                     <hora>9:00-11:00</hora>
-                    <link-wmv>mms://homer.uc3m.es/audiovisuales/Cursos/estadistica08/fiabilidad.wmv</link-wmv>
-		    <link-3gp>./3gp/fiabilidad.3gp</link-3gp>
-                    <link-ipod>./mpeg4/fiabilidad.mp4</link-ipod>
+                    <link-wmv>fiabilidad.wmv</link-wmv>
+                    <link-3gp>fiabilidad.3gp</link-3gp>
+                    <link-ipod>fiabilidad.mp4</link-ipod>
                 </subsection>
             </section>
             <section>
@@ -628,14 +628,14 @@
             <title>Teorema central del límite</title>
             <fecha>23-4-2008</fecha>
             <hora>9:00-11:00</hora>
-            <link-wmv>mms://homer.uc3m.es/audiovisuales/Cursos/estadistica08/teolimite.wmv</link-wmv>
-            <link-3gp>./3gp/teolimite.3gp</link-3gp>
+            <link-wmv>teolimite.wmv</link-wmv>
+            <link-3gp>teolimite.3gp</link-3gp>
             <section>
                 <title>Condiciones de aplicación</title>
                 <fecha>23-4-2008</fecha>
                 <hora>9:00-11:00</hora>
-                <link-wmv>mms://homer.uc3m.es/audiovisuales/Cursos/estadistica08/condiaplicacion.wmv</link-wmv>
-                <link-3gp>./3gp/condiaplicacion.3gp</link-3gp>
+                <link-wmv>condiaplicacion.wmv</link-wmv>
+                <link-3gp>condiaplicacion.3gp</link-3gp>
             </section>
             <section>
                 <title>Formas de aplicación</title>

@@ -20,7 +20,10 @@
     indent='no'
     encoding='UTF-8'/>
     -->
-
+    <xsl:param name="debug"/>
+    <xsl:template name="debug">
+        <xsl:if test="$debug = 'true'">http://minivideos.uc3m.es/</xsl:if>
+    </xsl:template>
 
     <xsl:template match="html">
         <html xml:lang="es">
@@ -97,54 +100,57 @@
     </xsl:template>
 
 
- <xsl:template name="tabs">
-     <div id="myTabContent" class="tab-content">
-         <div role="tabpanel" class="tab-pane fade active in" id="home" aria-labelledby="home-tab">
-             <xsl:call-template name="header"/>
-         </div>
-         <xsl:apply-templates select="tema" mode="tabs"/>
-     </div>
- </xsl:template>
+    <xsl:template name="tabs">
+        <div id="myTabContent" class="tab-content">
+            <div role="tabpanel" class="tab-pane fade active in" id="home" aria-labelledby="home-tab">
+                <xsl:call-template name="header"/>
+            </div>
+            <xsl:apply-templates select="tema" mode="tabs"/>
+        </div>
+    </xsl:template>
 
 
- <xsl:template match="minivideos/tema" mode="dropdown">
-     <xsl:if test="count(./descendant::link-wmv | ./descendant::link-3gp | ./descendant::link-ipod | ./descendant::link-pdf) &gt; 0">
-         <xsl:element name="li">
-             <xsl:attribute name="role">tab_href_<xsl:value-of select="position()"/>
-             </xsl:attribute>
-             <xsl:element name="a">
-                 <xsl:attribute name="href">#tab_href_<xsl:value-of select="position()"/>
-                 </xsl:attribute>
-                 <xsl:attribute name="aria-controls">tab_href_<xsl:value-of select="position()"/>
-                 </xsl:attribute>
-                 <xsl:attribute name="role">tab</xsl:attribute>
-                 <xsl:attribute name="data-toggle">tab</xsl:attribute>
-                 <xsl:value-of select="title"/>
-             </xsl:element>
-         </xsl:element>
-     </xsl:if>
- </xsl:template>
+    <xsl:template match="minivideos/tema" mode="dropdown">
+        <xsl:if test="count(./descendant::link-wmv | ./descendant::link-3gp | ./descendant::link-ipod | ./descendant::link-pdf) &gt; 0">
+            <xsl:element name="li">
+                <xsl:attribute name="role">tab_href_<xsl:value-of select="position()"/>
+                </xsl:attribute>
+                <xsl:element name="a">
+                    <xsl:attribute name="href">#tab_href_<xsl:value-of select="position()"/>
+                    </xsl:attribute>
+                    <xsl:attribute name="aria-controls">tab_href_<xsl:value-of select="position()"/>
+                    </xsl:attribute>
+                    <xsl:attribute name="role">tab</xsl:attribute>
+                    <xsl:attribute name="data-toggle">tab</xsl:attribute>
+                    <xsl:value-of select="title"/>
+                </xsl:element>
+            </xsl:element>
+        </xsl:if>
+    </xsl:template>
 
 
-  <xsl:template match="minivideos/tema" mode="tabs">
-      <xsl:if test="count(./descendant::link-wmv | ./descendant::link-3gp | ./descendant::link-ipod | ./descendant::link-pdf) &gt; 0">
-          <xsl:element name="div">
-              <xsl:attribute name="role">tabpanel</xsl:attribute>
-              <xsl:attribute name="class">tab-pane fade</xsl:attribute>
-              <xsl:attribute name="id">tab_href_<xsl:value-of select="position()"/></xsl:attribute>
-              <div class="container-fluid panel panel-primary">
-                  <xsl:call-template name="tema"/>
-              </div>
-          </xsl:element>
-      </xsl:if>
-  </xsl:template>
+    <xsl:template match="minivideos/tema" mode="tabs">
+        <xsl:if test="count(./descendant::link-wmv | ./descendant::link-3gp | ./descendant::link-ipod | ./descendant::link-pdf) &gt; 0">
+            <xsl:element name="div">
+                <xsl:attribute name="role">tabpanel</xsl:attribute>
+                <xsl:attribute name="class">tab-pane fade</xsl:attribute>
+                <xsl:attribute name="id">tab_href_<xsl:value-of select="position()"/>
+                </xsl:attribute>
+                <div class="container-fluid panel panel-primary">
+                    <xsl:call-template name="tema"/>
+                </div>
+            </xsl:element>
+        </xsl:if>
+    </xsl:template>
 
 
     <xsl:template name="tema">
         <xsl:if test="count(./descendant::link-wmv | ./descendant::link-3gp | ./descendant::link-ipod | ./descendant::link-pdf) &gt; 0">
             <div class="row panel-heading">
                 <div class="col-md-7 tema">
-                    <h1 class="panel-title"><xsl:value-of select="title"/></h1>
+                    <h1 class="panel-title">
+                        <xsl:value-of select="title"/>
+                    </h1>
                 </div>
                 <xsl:call-template name="links"/>
             </div>
@@ -199,7 +205,7 @@
     <xsl:template match="link-wmv">
         <xsl:element name="a">
             <xsl:attribute name="href">
-                <xsl:value-of select="."/>
+                <xsl:call-template name="debug"/>wmv/<xsl:value-of select="."/>
             </xsl:attribute>
             <img class="icon" alt="para pc" src="minivideos_files/wmv.png"/>
         </xsl:element>
@@ -208,7 +214,7 @@
     <xsl:template match="link-pdf">
         <xsl:element name="a">
             <xsl:attribute name="href">
-                <xsl:value-of select="."/>
+                <xsl:call-template name="debug"/>pdf/<xsl:value-of select="."/>
             </xsl:attribute>
             <img class="icon" alt="transparencias" src="minivideos_files/pdf.png"/>
         </xsl:element>
@@ -217,7 +223,7 @@
     <xsl:template match="link-3gp">
         <xsl:element name="a">
             <xsl:attribute name="href">
-                <xsl:value-of select="."/>
+                <xsl:call-template name="debug"/>3gp/<xsl:value-of select="."/>
             </xsl:attribute>
             <img class="icon" alt="para movil" src="minivideos_files/pda.gif"/>
         </xsl:element>
@@ -226,7 +232,7 @@
     <xsl:template match="link-ipod">
         <xsl:element name="a">
             <xsl:attribute name="href">
-                <xsl:value-of select="."/>
+                <xsl:call-template name="debug"/>mpeg4/<xsl:value-of select="."/>
             </xsl:attribute>
             <img class="icon" alt="para ipod" src="minivideos_files/ipod.png"/>
         </xsl:element>
@@ -268,7 +274,7 @@
     <xsl:template name="Participants">
 
         <div class="row">
-            <h3 class="team-members" >Participantes</h3>
+            <h3 class="team-members">Participantes</h3>
             <div class="col-md-7">
                 <ul class="list-group">
                     <li class="list-group-item">
