@@ -1,0 +1,13 @@
+### JetBrains files
+.idea/
+
+# large files
+3gp/
+mpeg4/
+pdf/
+wmv/
+backup/
+
+# MAC info
+.DS_Store
+
