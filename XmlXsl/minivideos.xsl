@@ -223,6 +223,7 @@
             <xsl:attribute name="href">
                 <xsl:call-template name="debug"/>wmv/<xsl:value-of select="."/>
             </xsl:attribute>
+            <xsl:attribute name="class">external-link</xsl:attribute>
             <img class="icon" alt="para pc" src="minivideos_files/wmv.png"/>
         </xsl:element>
     </xsl:template>
@@ -232,6 +233,7 @@
             <xsl:attribute name="href">
                 <xsl:call-template name="debug"/>pdf/<xsl:value-of select="."/>
             </xsl:attribute>
+            <xsl:attribute name="class">external-link</xsl:attribute>
             <img class="icon" alt="transparencias" src="minivideos_files/pdf.png"/>
         </xsl:element>
     </xsl:template>
@@ -241,6 +243,7 @@
             <xsl:attribute name="href">
                 <xsl:call-template name="debug"/>3gp/<xsl:value-of select="."/>
             </xsl:attribute>
+            <xsl:attribute name="class">external-link</xsl:attribute>
             <img class="icon" alt="para movil" src="minivideos_files/pda.gif"/>
         </xsl:element>
     </xsl:template>
@@ -250,6 +253,7 @@
             <xsl:attribute name="href">
                 <xsl:call-template name="debug"/>mpeg4/<xsl:value-of select="."/>
             </xsl:attribute>
+            <xsl:attribute name="class">external-link</xsl:attribute>
             <img class="icon" alt="para ipod" src="minivideos_files/ipod.png"/>
         </xsl:element>
     </xsl:template>

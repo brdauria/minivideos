@@ -1,7 +1,7 @@
 var XSLminivideos;
-var urlXSLminivideos = "xml+xsl/minivideos.xsl";
+var urlXSLminivideos = "XmlXsl/minivideos.xsl";
 var XMLminivideos;
-var urlXMLminivideos = "xml+xsl/minivideos.xml";
+var urlXMLminivideos = "XmlXsl/minivideos.xml";
 
 function change_photo(image) {
     var photo = document.getElementById("photo");
@@ -43,6 +43,8 @@ function readXML(debug) {
             node.appendChild(resultDocument);
         }
 
+        handleHistory();
+
     });
 }
 
@@ -67,7 +69,38 @@ function _getParameter(identifier) {
     return result;
 }
 
-function checkDebug(){
+function checkDebug() {
     var debug = _getParameter('debug');
     return (debug == 'true');
+}
+
+
+function handleHistory() {
+    console.log('function');
+    // add a hash to the URL when the user clicks on a tab
+    $('a[data-toggle="tab"]').on('click', function (e) {
+        var href = $(this).attr('href');
+        history.pushState(null, null, href);
+    });
+    $('a.external-link').on('click', function (e) {
+        var href = '#' + $(this).closest('div.tab-pane').attr('id');
+        history.pushState(null, null, href);
+    });
+
+    function handleLocationHash(e) {
+        console.log('popstate');
+        var activeTab = $('[href="' + location.hash + '"]');
+        if (activeTab.length) {
+            activeTab.tab('show');
+        } else {
+            $('.nav-tabs a:first').tab('show');
+        }
+    }
+
+    // navigate to a tab when the history changes
+    window.addEventListener("popstate", handleLocationHash);
+
+    // excetute handleLocationHash once
+    handleLocationHash(null);
+
 }
