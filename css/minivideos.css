@@ -47,3 +47,7 @@ div.subsection {
     max-height: 200px;
 }
 
+div.empty-icon {
+    display: inline-block;
+    width: 32px;
+}

@@ -195,11 +195,27 @@
 
     <xsl:template name="links">
         <div class="col-md-4">
-            <xsl:apply-templates select="link-wmv"/>
-            <xsl:apply-templates select="link-3gp"/>
+            <xsl:if test="not(link-ipod)">
+                <xsl:call-template name="empty-icon"/>
+            </xsl:if>
             <xsl:apply-templates select="link-ipod"/>
+            <xsl:if test="not(link-wmv)">
+                <xsl:call-template name="empty-icon"/>
+            </xsl:if>
+            <xsl:apply-templates select="link-wmv"/>
+            <xsl:if test="not(link-3gp)">
+                <xsl:call-template name="empty-icon"/>
+            </xsl:if>
+            <xsl:apply-templates select="link-3gp"/>
+            <xsl:if test="not(link-pdf)">
+                <xsl:call-template name="empty-icon"/>
+            </xsl:if>
             <xsl:apply-templates select="link-pdf"/>
         </div>
+    </xsl:template>
+
+    <xsl:template name="empty-icon">
+        <div class="empty-icon"/>
     </xsl:template>
 
     <xsl:template match="link-wmv">
@@ -321,7 +337,7 @@
             </div>
             <div id="photoframe" class="col-md-5">
                 <h3/>
-                <img id="photo" src="minivideos_files/photos/movil.jpg" alt="foto"></img>
+                <img id="photo" src="minivideos_files/photos/movil.jpg" alt="foto"/>
             </div>
         </div>
     </xsl:template>
