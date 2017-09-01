@@ -1,7 +1,7 @@
 var XSLminivideos;
-var urlXSLminivideos = "xsl/minivideos.xsl";
+var urlXSLminivideos = "xml+xsl/minivideos.xsl";
 var XMLminivideos;
-var urlXMLminivideos = "minivideos.xml";
+var urlXMLminivideos = "xml+xsl/minivideos.xml";
 
 function change_photo(image) {
     var photo = document.getElementById("photo");
