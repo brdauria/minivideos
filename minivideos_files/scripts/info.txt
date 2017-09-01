@@ -1,0 +1,2 @@
+# to convert from wmv to mp4
+ffmpeg -i input.wmv -s size output.mp4
