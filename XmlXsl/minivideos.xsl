@@ -363,14 +363,10 @@
             var s_sid = 484154; var st_dominio = 4;
             var cimg = 509; var cwi =72; var che =18;
         </script>
-        <script type="text/javascript" src="http://s11.histats.com/js9.js">
-            &lt;!-- --&gt;
-        </script>
-        <noscript>
-            <p>
-                <img src="http://s4.histats.com/stats/0.gif?484154&amp;1" alt="cool hit counter"/>
-            </p>
-        </noscript>
+        <script type="text/javascript" src="http://s11.histats.com/js9.js"/>
+        <xsl:if test="$debug = 'true'">
+            <img src="http://s4.histats.com/stats/0.gif?484154&amp;1" alt="cool hit counter"/>
+        </xsl:if>
     </xsl:template>
 
     <xsl:template name="side">
