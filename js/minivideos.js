@@ -2,6 +2,7 @@ var XSLminivideos;
 var urlXSLminivideos = "XmlXsl/minivideos.xsl";
 var XMLminivideos;
 var urlXMLminivideos = "XmlXsl/minivideos.xml";
+var _Hasync= _Hasync|| [];
 
 function change_photo(image) {
     var photo = document.getElementById("photo");
@@ -43,6 +44,7 @@ function readXML(debug) {
             node.appendChild(resultDocument);
         }
 
+        handleHistats();
         handleHistory();
 
     });
@@ -76,19 +78,18 @@ function checkDebug() {
 
 
 function handleHistory() {
-    console.log('function');
     // add a hash to the URL when the user clicks on a tab
     $('a[data-toggle="tab"]').on('click', function (e) {
         var href = $(this).attr('href');
         history.pushState(null, null, href);
     });
+
     $('a.external-link').on('click', function (e) {
         var href = '#' + $(this).closest('div.tab-pane').attr('id');
         history.pushState(null, null, href);
     });
 
     function handleLocationHash(e) {
-        console.log('popstate');
         var activeTab = $('[href="' + location.hash + '"]');
         if (activeTab.length) {
             activeTab.tab('show');
@@ -102,5 +103,22 @@ function handleHistory() {
 
     // excetute handleLocationHash once
     handleLocationHash(null);
-
 }
+
+function handleHistats() {
+    if (checkDebug()) {
+        _Hasync.push(['Histats.start', '1,484154,4,105,100,45,00010000']);
+        _Hasync.push(['Histats.fasi', '1']);
+        _Hasync.push(['Histats.track_hits', '']); <!-- Visible Counter -->
+    } else {
+        _Hasync.push(['Histats.start', '1,484154,4,0,0,0,00010000']);
+        _Hasync.push(['Histats.fasi', '1']);
+        _Hasync.push(['Histats.track_hits', '']); <!-- Hidden Counter -->
+    }
+    $.ajax({
+        url: 'http://s10.histats.com/js15_as.js',
+        dataType: 'script',
+        success: function() {console.log('Hitstats counter loaded!')}
+    });
+}
+
